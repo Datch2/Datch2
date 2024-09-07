@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Datch2" target="blank">
 Diego</a></h1>
-<h3 align="center">Me interesa el desarrollo web &#127470;&#127475</h3>
+<h3 align="center">Me interesa el desarrollo web </h3>
 
 
 
