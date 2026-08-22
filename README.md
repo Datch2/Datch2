@@ -1,35 +1,49 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/Datch2" target="blank">
-Diego</a></h1>
-<h3 align="center">Me interesa el desarrollo  </h3>
-
-
-
-
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-- 🔭 Dev en desarrollo
-
-- 🌱 supporting the green
-
-- 📝 Estudiante de ing de sistemas
-
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/Datch2" target="_blank">Diego Toledo</a></h1>
+<h3 align="center">Systems Engineering Student | Data Analysis & Cybersecurity Enthusiast</h3>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/diego-toledo-450686229/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Datch2" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/diego-toledo-450686229/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Datch2">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/daigo_tc19/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://x.com/dachito19">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-      </div>
+---
 
+### 👨‍💻 About Me
+
+- 🎓 **Systems Engineering student** in final cycles, focused on practical automation and analytics.
+- 📊 Passionate about **Data Analysis** (ETL pipelines, data cleaning, and statistical visualization).
+- 🛡️ Developing skills in **Cybersecurity** (SOC monitoring fundamentals, Linux administration, and network security).
+- 🐍 Building scalable CLI tools, web parsers, and data manipulation workflows with **Python & SQL**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+  
+  <!-- Data & Analytics -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  
+  <!-- Systems & Infrastructure -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Networking-CCNA_Basis-005073?style=flat-square" alt="Networking" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Datch2&show_icons=true&theme=tokyonight" alt="Diego's GitHub stats" />
 </p>
