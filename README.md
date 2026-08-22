@@ -42,8 +42,8 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Activity & Languages
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Datch2&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datch2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
