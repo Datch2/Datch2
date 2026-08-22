@@ -42,8 +42,8 @@
 
 ---
 
-### 📈 Activity & Languages
+### 🏆 Achievements & Badges
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datch2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Datch2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
